@@ -1,7 +1,6 @@
 # 📌 핀로그 — 청년을 위한 빚 공유 플랫폼
 
 > 카카오 × 구름 구름톤 유니브 시즌톤 참가작  
-> 백엔드 레포: [Khaneul1/2025_SEASONTON_TEAM_41_BE](https://github.com/Khaneul1/2025_SEASONTON_TEAM_41_BE) · [커밋 히스토리](https://github.com/Khaneul1/2025_SEASONTON_TEAM_41_BE/commits/main/)
 
 <br>
 
